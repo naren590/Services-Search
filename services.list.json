@@ -1,0 +1,50 @@
+[{
+  "_id": "1",
+  "name": "John Doe",
+  "location": "Cincinnati",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "MongoDB"
+  ]
+},
+{
+  "_id": "2",
+  "name": "Jane Smith",
+  "location": "New York",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js"
+  ]
+},
+{
+  "_id": "3",
+  "name": "Alice Johnson",
+  "location": "Cincinnati",
+  "skills": [
+    "Python",
+    "Django",
+    "MongoDB"
+  ]
+},
+{
+  "_id": "4",
+  "name": "Bob Brown",
+  "location": "San Francisco",
+  "skills": [
+    "Java",
+    "Spring",
+    "MySQL"
+  ]
+},
+{
+  "_id": "5",
+  "name": "Charlie Davis",
+  "location": "Cincinnati",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Docker"
+  ]
+}]
